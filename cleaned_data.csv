@@ -8997,7 +8997,6 @@ Survey Year,Timestamp,SalaryUSD,Country,EmploymentStatus,JobTitle,ManageStaff,Ye
 2018,12/20/2017 11:16:04,96000.0,United States,Full time employee,Manager,Yes,11,Not Asked,,Not Asked,Local government,"Stay with the same role, but change employers",Male
 2018,12/20/2017 11:15:50,45500.0,Belgium,Full time employee of a consulting/contracting company,"Developer: Business Intelligence (SSRS, PowerBI, etc)",Yes,1,Not Asked,2.0,Not Asked,Private business,Prefer not to say,Male
 2018,12/20/2017 11:15:30,54462.0,Canada,Full time employee,DBA (General - splits time evenly between writing & tuning queries AND building & troubleshooting servers),No,4,Not Asked,2.0,Not Asked,State/province government,Prefer not to say,Male
-2018,12/20/2017 11:14:51,110000.0,United States,Full time employee,Other,Yes,22,Not Asked,,Not Asked,Student,"Stay with the same role, but change employers",Male
 2018,12/20/2017 11:14:41,92000.0,United States,Full time employee,"Developer: Business Intelligence (SSRS, PowerBI, etc)",No,2,Not Asked,,Not Asked,Private business,Change both employers and roles,Male
 2018,12/20/2017 11:14:21,120000.0,United States,Full time employee,"Developer: App code (C#, JS, etc)",Yes,15,Not Asked,2.0,Not Asked,Private business,Prefer not to say,Prefer not to say
 2018,12/20/2017 11:14:14,66152.0,Canada,Full time employee,"Developer: App code (C#, JS, etc)",Yes,10,Not Asked,,Not Asked,Private business,Prefer not to say,Male
@@ -9591,7 +9590,6 @@ Survey Year,Timestamp,SalaryUSD,Country,EmploymentStatus,JobTitle,ManageStaff,Ye
 2018,12/19/2017 7:37:09,85000.0,United States,Full time employee,DBA (General - splits time evenly between writing & tuning queries AND building & troubleshooting servers),Yes,1,Not Asked,,Not Asked,Federal government,"Stay with the same role, but change employers",Female
 2018,12/19/2017 7:36:10,50000.0,Brazil,"Independent consultant, contractor, freelancer,  or company owner","Developer: App code (C#, JS, etc)",No,1,Not Asked,2.0,Not Asked,Private business,Change both employers and roles,Male
 2018,12/19/2017 7:30:29,89000.0,United Kingdom,Full time employee of a consulting/contracting company,Architect,No,3,Not Asked,,Not Asked,Private business,"Stay with the same role, but change employers",Male
-2018,12/19/2017 7:23:42,23500.0,Denmark,Full time employee of a consulting/contracting company,"DBA (Production Focus - build & troubleshoot servers, HA/DR)",No,2,Not Asked,,Not Asked,Student,Prefer not to say,Male
 2018,12/19/2017 7:07:30,135000.0,United States,"Independent consultant, contractor, freelancer,  or company owner","Developer: Business Intelligence (SSRS, PowerBI, etc)",No,4,Not Asked,,Not Asked,Private business,"Stay with the same employer, same role",Male
 2018,12/19/2017 7:00:16,51000.0,Greece,Full time employee,Architect,No,2,Not Asked,2.0,Not Asked,Private business,"Stay with the same employer,  but change roles",Male
 2018,12/19/2017 6:58:08,107000.0,United States,Full time employee of a consulting/contracting company,DBA (General - splits time evenly between writing & tuning queries AND building & troubleshooting servers),No,1,Not Asked,4.0,Not Asked,Private business,"Stay with the same role, but change employers",Female
@@ -11608,7 +11606,6 @@ Survey Year,Timestamp,SalaryUSD,Country,EmploymentStatus,JobTitle,ManageStaff,Ye
 2017,1/9/2017 11:22:24,69000.0,United States,Full time employee,DBA,No,7,Not Asked,,Not Asked,Local government,Not Asked,Not Asked
 2017,1/9/2017 11:21:43,95000.0,United States,Full time employee,DBA,Yes,1,Not Asked,,Not Asked,Private business,Not Asked,Not Asked
 2017,1/9/2017 11:20:58,65000.0,United States,Full time employee,DBA,No,0,Not Asked,1.0,Not Asked,Private business,Not Asked,Not Asked
-2017,1/9/2017 11:20:44,65000.0,United States,Full time employee,Analyst,No,1,Not Asked,,Not Asked,Student,Not Asked,Not Asked
 2017,1/9/2017 11:20:27,59000.0,United States,Full time employee,DBA,No,3,Not Asked,5.0,Not Asked,Private business,Not Asked,Not Asked
 2017,1/9/2017 11:20:14,110000.0,United States,Full time employee,DBA,No,28,Not Asked,2.0,Not Asked,Private business,Not Asked,Not Asked
 2017,1/9/2017 11:20:11,29000.0,United Kingdom,Full time employee,Analyst,No,2,Not Asked,1.0,Not Asked,Private business,Not Asked,Not Asked
@@ -11625,7 +11622,6 @@ Survey Year,Timestamp,SalaryUSD,Country,EmploymentStatus,JobTitle,ManageStaff,Ye
 2017,1/9/2017 11:16:38,87000.0,United States,Full time employee,"Developer: Business Intelligence (SSRS, PowerBI, etc)",No,4,Not Asked,,Not Asked,Private business,Not Asked,Not Asked
 2017,1/9/2017 11:16:06,48000.0,Netherlands,Full time employee,Manager,Yes,5,Not Asked,,Not Asked,Private business,Not Asked,Not Asked
 2017,1/9/2017 11:15:37,64300.0,Canada,Full time employee,DBA,No,1,Not Asked,3.0,Not Asked,State/province government,Not Asked,Not Asked
-2017,1/9/2017 11:14:52,90000.0,United States,Full time employee,DBA,No,5,Not Asked,,Not Asked,Student,Not Asked,Not Asked
 2017,1/9/2017 11:14:47,45000.0,United States,Full time employee,"Developer: App code (C#, JS, etc)",No,20,Not Asked,5.0,Not Asked,Private business,Not Asked,Not Asked
 2017,1/9/2017 11:14:35,29500.0,Spain,Full time employee,DBA,No,2,Not Asked,2.0,Not Asked,Private business,Not Asked,Not Asked
 2017,1/9/2017 11:14:25,35000.0,Spain,Full time employee,Engineer,Yes,12,Not Asked,,Not Asked,Private business,Not Asked,Not Asked
@@ -11845,7 +11841,6 @@ Survey Year,Timestamp,SalaryUSD,Country,EmploymentStatus,JobTitle,ManageStaff,Ye
 2017,1/9/2017 9:07:02,115000.0,United States,Full time employee,Architect,No,15,Not Asked,,Not Asked,Private business,Not Asked,Not Asked
 2017,1/9/2017 9:06:53,73000.0,United States,Full time employee,Analyst,No,30,Not Asked,,Not Asked,Private business,Not Asked,Not Asked
 2017,1/9/2017 9:06:53,105000.0,United States,Full time employee,DBA,No,9,Not Asked,1.0,Not Asked,Private business,Not Asked,Not Asked
-2017,1/9/2017 9:06:51,72000.0,United States,Full time employee,Engineer,No,20,Not Asked,,Not Asked,Student,Not Asked,Not Asked
 2017,1/9/2017 9:06:34,368900.0,Netherlands,Independent or freelancer or company owner,Engineer,No,3,Not Asked,2.0,Not Asked,Private business,Not Asked,Not Asked
 2017,1/9/2017 9:06:29,126000.0,United States,Full time employee,Developer: T-SQL,No,2,Not Asked,,Not Asked,Private business,Not Asked,Not Asked
 2017,1/9/2017 9:06:22,60000.0,United States,Full time employee,DBA,No,15,Not Asked,,Not Asked,Private business,Not Asked,Not Asked
@@ -12204,7 +12199,6 @@ Survey Year,Timestamp,SalaryUSD,Country,EmploymentStatus,JobTitle,ManageStaff,Ye
 2017,1/7/2017 12:47:20,110000.0,United States,Full time employee,DBA,No,5,Not Asked,2.0,Not Asked,Private business,Not Asked,Not Asked
 2017,1/7/2017 12:44:27,13000.0,India,Full time employee,DBA,No,1,Not Asked,5.0,Not Asked,Private business,Not Asked,Not Asked
 2017,1/7/2017 12:42:22,130000.0,United States,Full time employee,Architect,Yes,1,Not Asked,,Not Asked,Private business,Not Asked,Not Asked
-2017,1/7/2017 12:25:44,50000.0,United States,Full time employee,Manager,Yes,3,Not Asked,1.0,Not Asked,Student,Not Asked,Not Asked
 2017,1/7/2017 12:01:31,105000.0,United States,Full time employee,DBA,No,6,Not Asked,,Not Asked,Private business,Not Asked,Not Asked
 2017,1/7/2017 12:00:28,108000.0,United States,Full time employee of a consulting/contracting company,"Developer: Business Intelligence (SSRS, PowerBI, etc)",No,4,Not Asked,,Not Asked,Private business,Not Asked,Not Asked
 2017,1/7/2017 11:38:12,165000.0,United States,Independent or freelancer or company owner,Architect,Yes,13,Not Asked,2.0,Not Asked,Private business,Not Asked,Not Asked
@@ -12844,7 +12838,6 @@ Survey Year,Timestamp,SalaryUSD,Country,EmploymentStatus,JobTitle,ManageStaff,Ye
 2017,1/5/2017 16:16:39,158000.0,United States,Full time employee,Developer: T-SQL,Yes,8,Not Asked,,Not Asked,Private business,Not Asked,Not Asked
 2017,1/5/2017 16:16:16,100000.0,Australia,Full time employee,DBA,Yes,6,Not Asked,1.0,Not Asked,Federal government,Not Asked,Not Asked
 2017,1/5/2017 16:13:52,54000.0,Sweden,Full time employee of a consulting/contracting company,DBA,No,2,Not Asked,4.0,Not Asked,Private business,Not Asked,Not Asked
-2017,1/5/2017 16:11:51,84000.0,Australia,Full time employee,DBA,No,15,Not Asked,2.0,Not Asked,Student,Not Asked,Not Asked
 2017,1/5/2017 16:11:51,60000.0,United States,Full time employee,DBA,No,1,Not Asked,1.0,Not Asked,Private business,Not Asked,Not Asked
 2017,1/5/2017 16:11:40,55000.0,Greece,Full time employee,DBA,Yes,4,Not Asked,,Not Asked,Private business,Not Asked,Not Asked
 2017,1/5/2017 16:10:41,86000.0,Australia,Full time employee of a consulting/contracting company,Architect,No,1,Not Asked,,Not Asked,Private business,Not Asked,Not Asked
@@ -12947,7 +12940,6 @@ Survey Year,Timestamp,SalaryUSD,Country,EmploymentStatus,JobTitle,ManageStaff,Ye
 2017,1/5/2017 14:14:53,17500.0,Poland,Full time employee,Engineer,No,2,Not Asked,,Not Asked,Private business,Not Asked,Not Asked
 2017,1/5/2017 14:14:43,110000.0,United States,Full time employee,DBA,Yes,1,Not Asked,,Not Asked,Private business,Not Asked,Not Asked
 2017,1/5/2017 14:14:35,85000.0,United States,Full time employee,Engineer,No,4,Not Asked,2.0,Not Asked,Private business,Not Asked,Not Asked
-2017,1/5/2017 14:13:11,72000.0,United States,Full time employee,DBA,No,13,Not Asked,,Not Asked,Student,Not Asked,Not Asked
 2017,1/5/2017 14:12:03,83000.0,United States,Full time employee,DBA,No,20,Not Asked,,Not Asked,Private business,Not Asked,Not Asked
 2017,1/5/2017 14:09:58,151000.0,United States,Full time employee,DBA,No,33,Not Asked,1.0,Not Asked,Private business,Not Asked,Not Asked
 2017,1/5/2017 14:08:26,100000.0,United States,Full time employee,DBA,No,1,Not Asked,,Not Asked,Private business,Not Asked,Not Asked
@@ -13382,7 +13374,6 @@ Survey Year,Timestamp,SalaryUSD,Country,EmploymentStatus,JobTitle,ManageStaff,Ye
 2017,1/5/2017 11:30:05,115000.0,United States,Full time employee,Developer: T-SQL,No,1,Not Asked,2.0,Not Asked,Private business,Not Asked,Not Asked
 2017,1/5/2017 11:29:57,90000.0,United States,Full time employee,DBA,No,4,Not Asked,,Not Asked,Private business,Not Asked,Not Asked
 2017,1/5/2017 11:29:31,40000.0,United States,Full time employee,"Developer: App code (C#, JS, etc)",No,2,Not Asked,,Not Asked,Private business,Not Asked,Not Asked
-2017,1/5/2017 11:29:28,69725.0,United States,Full time employee,DBA,No,10,Not Asked,1.0,Not Asked,Student,Not Asked,Not Asked
 2017,1/5/2017 11:29:27,88000.0,United States,Full time employee,Architect,Yes,3,Not Asked,4.0,Not Asked,Private business,Not Asked,Not Asked
 2017,1/5/2017 11:29:21,84048.0,United States,Full time employee,DBA,No,8,Not Asked,,Not Asked,Private business,Not Asked,Not Asked
 2017,1/5/2017 11:29:03,77000.0,United States,Full time employee,DBA,No,4,Not Asked,,Not Asked,Private business,Not Asked,Not Asked
